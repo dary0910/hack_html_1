@@ -1,0 +1,70 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+    overflow-x: hidden;
+    
+
+}
+
+/*Cajas*/ 
+
+.caja-1{
+    background-color:#93B5C9 ;
+    width: 1450px;
+    height: 100px;
+    
+
+}
+.caja-2{
+    background-color: #AB2849;
+    width: 1450px;
+    height: 175px;
+} 
+
+.caja-3{
+    background-color: #AB2849;
+    width: 1010px;
+    height: 75px;
+}
+
+
+.caja-4{
+    background-color: #AB2849;
+    width: 500px;
+    height: 75px;
+}
+
+.caja-5{
+    background-color: #AB2849;
+    width: 500px;
+    height: 75px;
+}
+
+
+
+.caja-6{
+    background-color: #AB2849;
+    width: 1010px;
+    height: 75px;
+}
+
+
+.caja-7{
+    background-color: #AB2849;
+    width: 500px;
+    height: 75px;
+}
+
+.caja-8{
+    background-color: #AB2849;
+    width: 500px;
+    height: 75px;
+}
+
+.caja-9{
+    background-color: #AB2849;
+    width: 1450px;
+    height: 75px;
+}

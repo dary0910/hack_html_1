@@ -1,0 +1,50 @@
+.caja-1{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 1349px;
+
+}
+.caja-2{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    width: 1349px;
+    
+}
+
+.centrales{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.cajas-dobles{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.caja-4{
+    margin: 5px;
+}
+
+.caja-5{
+    margin: 5px;
+}
+
+.caja-7{
+    margin: 5px;
+}
+
+.caja-8{
+    margin: 5px;
+}
+
+.cajas{
+    margin-top: 15px;
+    padding-bottom: 10px;
+} 

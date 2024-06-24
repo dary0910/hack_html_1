@@ -1,0 +1,36 @@
+
+.caja-1{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 1349px;
+
+}
+.caja-2{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    width: 1349px;
+    
+}
+
+.cajas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    width: 850px;
+    top: 200px;
+}
+
+
+.cajas1{
+    float: none;
+    height: 75px;
+    left: 25px;
+    margin-right: 25px;
+    margin-top: 285px;
+    padding-bottom: 10px;
+} 
+

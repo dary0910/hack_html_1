@@ -1,0 +1,54 @@
+
+.caja-1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 1349px;
+
+}
+.caja-2{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    width: 1349px;
+    
+}
+
+.cajas{
+    display: block;
+    position: relative;
+    height: 75px;
+    width: 1000px;
+}
+.caja-3{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    
+}
+.caja-4{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+}
+.caja-5{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+}
+.caja-6{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+}
+
+.cajas1{
+    position: relative;
+    width: 1304px;
+    height: 75px;
+    left: 25px;
+    top: 620px;
+    padding-bottom: 10px;
+} 
