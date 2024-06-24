@@ -3,6 +3,7 @@ html, body{
     padding: 0;
     box-sizing: border-box;
     background-color: beige;
+    overflow-x: hidden;
     
 
 }
@@ -42,6 +43,6 @@ html, body{
 }
 .caja-7{
     background-color: #AB2849;
-    width: 1270px;
+    width: 1183px;
     height: 75px;
 }
